@@ -1,2 +1,4 @@
 #!/bin/bash
 chmod -R 755 /alx-system_engineering-devops/0x01-shell_permissions/dirc1
+chmod -R 755 /alx-system_engineering-devops/0x01-shell_permissions/dirc2
+chmod -R 755 .alx-system_engineering-devops/0x01-shell_permissions/dirc3
