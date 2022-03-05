@@ -1,2 +1,2 @@
-#1/bin/bash
-chmod -R 755 dirc1
+#!/bin/bash
+chmod 755 */
